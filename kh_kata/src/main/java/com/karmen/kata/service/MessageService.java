@@ -1,4 +1,4 @@
-package com.karmen.service;
+package com.karmen.kata.service;
 import java.util.ArrayList;
 
 import org.springframework.stereotype.Service;

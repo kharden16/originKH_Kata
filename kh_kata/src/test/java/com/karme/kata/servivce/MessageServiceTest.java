@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import com.karmen.kata.message.Message;
-import com.karmen.service.MessageService;
+import com.karmen.kata.service.MessageService;
 
 public class MessageServiceTest {
 	

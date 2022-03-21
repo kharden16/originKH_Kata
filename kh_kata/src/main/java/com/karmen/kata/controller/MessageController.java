@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.karmen.kata.message.Message;
-import com.karmen.service.MessageService;
+import com.karmen.kata.service.MessageService;
 
 @RestController
 public class MessageController {
